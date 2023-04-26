@@ -1,5 +1,13 @@
 # @wagmi/chains
 
+## 0.2.21
+
+### Patch Changes
+
+- 6ce16ed: Added Celo Cannoli Testnet
+- ebc10ba: Added ekta and ektaTestnet
+- 23ec21a: Added 5ireChain Thunder Testnet Support
+
 ## 0.2.20
 
 ### Patch Changes

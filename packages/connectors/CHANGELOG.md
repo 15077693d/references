@@ -1,5 +1,13 @@
 # @wagmi/connectors
 
+## 0.3.19
+
+### Patch Changes
+
+- 274eef3: - Updated @web3modal/standalone to 2.3.7
+  - Updated @walletconnect/ethereum-provider to 2.7.1
+- 82dcb72: Added Enkrypt extension detection
+
 ## 0.3.18
 
 ### Patch Changes
