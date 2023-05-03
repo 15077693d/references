@@ -1,5 +1,12 @@
 # @wagmi/connectors
 
+## 1.0.0-next.5
+
+### Major Changes
+
+- Updated viem.
+  Removed `goerli` export from main entrypoint.
+
 ## 1.0.0-next.4
 
 ### Major Changes
@@ -30,6 +37,7 @@
 ### Major Changes
 
 - 33488cf: Released v1.
+
 ## 0.3.18
 
 ### Patch Changes
